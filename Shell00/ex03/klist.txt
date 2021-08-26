@@ -1,0 +1,5 @@
+Credentials cache: API:0F308A56-85CD-40BC-AEB8-C9D8D7D945BA
+        Principal: mpale@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 11 10:43:34 2021  Aug 12 10:43:34 2021  krbtgt/42LYON.FR@42LYON.FR
